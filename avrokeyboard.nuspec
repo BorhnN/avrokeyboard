@@ -8,6 +8,7 @@
     <owners>BorhnN</owners>
     <authors>OmicronLab</authors>
     <projectUrl>https://www.omicronlab.com/avro-keyboard.html</projectUrl>
+    <iconUrl>https://rawcdn.githack.com/BorhnN/avrokeyboard/e8a7e9b17f744d01873dc1ecb6a4767dc9e407a0/avrokeyboardicon.png</iconUrl>
     <licenseUrl>https://github.com/mugli/Avro-Keyboard/blob/master/MPL-1.1.txt</licenseUrl>
     <projectSourceUrl>https://github.com/mugli/Avro-Keyboard</projectSourceUrl>
     <docsUrl>https://www.omicronlab.com/docs.html</docsUrl>
